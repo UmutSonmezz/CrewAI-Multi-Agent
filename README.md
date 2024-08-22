@@ -8,4 +8,5 @@ CrewAI Agents for Multi-Agent System,
 Custom Prompts for HTML error resolution and optimization,
 Serper API for searching results from Google and other search engines,
 Gemini-1.5-Flash Model via ChatGoogleGenerativeAI for creative AI responses.
+  ![image](https://github.com/user-attachments/assets/504faf32-67a2-44ac-82a3-e001eedeaf2c)
 
