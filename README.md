@@ -4,8 +4,8 @@ In this project, I developed a Multi-Agent System using CrewAI Agents to address
 To search for relevant results from Google and other search engines, I utilized the Serper API key. For generating outputs and employing creative AI, I used the Gemini-1.5-Flash model via ChatGoogleGenerativeAI. This system not only identifies and suggests fixes for HTML errors but also ensures that the solutions are practical and easy to implement.
 
 Technologies Used:
-CrewAI Agents for Multi-Agent System
-Custom Prompts for HTML error resolution and optimization
-Serper API for searching results from Google and other search engines
-Gemini-1.5-Flash Model via ChatGoogleGenerativeAI for creative AI responses
+CrewAI Agents for Multi-Agent System,
+Custom Prompts for HTML error resolution and optimization,
+Serper API for searching results from Google and other search engines,
+Gemini-1.5-Flash Model via ChatGoogleGenerativeAI for creative AI responses.
 
